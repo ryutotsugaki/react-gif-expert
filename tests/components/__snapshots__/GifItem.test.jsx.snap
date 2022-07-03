@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Las pruebas en el componente <GifItem /> Hacer un snapshot con el GifItem debe hacer el match con el snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="OverWatch"
+      src="https://www.google.com/"
+      title="OverWatch"
+    />
+    <p>
+       
+      OverWatch
+       
+    </p>
+  </div>
+</div>
+`;
